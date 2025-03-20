@@ -1,7 +1,7 @@
 # nowruz
 for mr dashti and all of olychat
 
-#include <iostream>
+#include iostream
 
 int main() {
 
